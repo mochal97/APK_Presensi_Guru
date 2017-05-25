@@ -12,11 +12,11 @@ Berikut Tutorial Penggunaan Aplikasi :
 2.	Untuk melihat biodata user dengan klik biodata pada menu absensi :
 ![2](https://cloud.githubusercontent.com/assets/22111021/26435909/eab9dc9a-413c-11e7-8c88-c6b559df4cf2.PNG)
 
-3.	Tampilan Biodata :
+3.	Tampilan Biodata :<br>
 ![3](https://cloud.githubusercontent.com/assets/22111021/26435933/042c9776-413d-11e7-91b6-98afc4999ea4.PNG)
  
-4.	Dan masuk ke halaman absensi untuk melakukan absensi dengan klik masuk atau pulang dan akan langsung logout ke halaman utama :
-![4 1](https://cloud.githubusercontent.com/assets/22111021/26435938/0d98fb56-413d-11e7-8c40-511ba6fd5ba4.PNG)
+4.	Dan masuk ke halaman absensi untuk melakukan absensi dengan klik masuk atau pulang dan akan langsung logout kehalaman utama :<br>
+![4 1](https://cloud.githubusercontent.com/assets/22111021/26435938/0d98fb56-413d-11e7-8c40-511ba6fd5ba4.PNG)<br>
 ![4](https://cloud.githubusercontent.com/assets/22111021/26435939/0d9e33dc-413d-11e7-8196-e5bf09c50a0c.PNG)
  
 5.	Untuk admin masuk kehalaman admin dengan klik button admin pada halaman utama
